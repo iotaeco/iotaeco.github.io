@@ -1,5 +1,5 @@
 {
     "protocol": "https",
-    "host": "nodes.iota.fm",
-    "port": 443
+    "host": "potato.iotasalad.org",
+    "port": 14265
 }
